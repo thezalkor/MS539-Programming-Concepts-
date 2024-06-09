@@ -12,6 +12,7 @@ namespace Gui_reference
             progress_StartStop.Style = ProgressBarStyle.Marquee;
             textBox_Update.Text = "Progress Bar has Started";
             textBox_Update.BackColor = Color.Green;
+            panel_StartStop.BackColor = Color.Beige;
         }
 
         private void button_Stop_Click(object sender, EventArgs e)
@@ -19,6 +20,7 @@ namespace Gui_reference
             progress_StartStop.Style = ProgressBarStyle.Blocks;
             textBox_Update.Text = "Progress Bar has Stopped";
             textBox_Update.BackColor = Color.Orange;
+            panel_StartStop.BackColor = Color.Red;
         }
 
         private void checkBox_Update_CheckedChanged(object sender, EventArgs e)
