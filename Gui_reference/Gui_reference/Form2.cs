@@ -31,6 +31,7 @@ namespace Gui_reference
 
         private void button_Add_Click(object sender, EventArgs e)
         {
+            //Counts the entries and displays error if more than 10 would be entered. Stops inputs
             if (listBox_Weights.Items.Count > 10)
             {
                 errorProvider2.SetError(listBox_Weights, "Maximum entries reached : 10");
@@ -49,7 +50,8 @@ namespace Gui_reference
         }
 
         private void textBox_Input_KeyPress(object sender, KeyPressEventArgs e)
-        {
+        {   
+            //Checks for certain inputs. Only whole numbers and Decimal numbers Displays error if anything else is tried. 
             if (char.IsControl(e.KeyChar))
             {
                 errorProvider2.SetError(textBox_Input, "");
