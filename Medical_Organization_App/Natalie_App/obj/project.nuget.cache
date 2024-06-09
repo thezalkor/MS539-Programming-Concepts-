@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "R3isLuU2qvw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\theza\\source\\repos\\Medical_Organization_App\\Natalie_App\\Natalie_App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\theza\\.nuget\\packages\\winforms.datavisualization\\1.9.2\\winforms.datavisualization.1.9.2.nupkg.sha512"
+  ],
+  "logs": []
+}
