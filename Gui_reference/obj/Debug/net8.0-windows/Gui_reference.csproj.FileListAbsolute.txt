@@ -1,0 +1,17 @@
+C:\Users\theza\OneDrive\Desktop\MS539 Code\Gui_reference\bin\Debug\net8.0-windows\Gui_reference.exe
+C:\Users\theza\OneDrive\Desktop\MS539 Code\Gui_reference\bin\Debug\net8.0-windows\Gui_reference.deps.json
+C:\Users\theza\OneDrive\Desktop\MS539 Code\Gui_reference\bin\Debug\net8.0-windows\Gui_reference.runtimeconfig.json
+C:\Users\theza\OneDrive\Desktop\MS539 Code\Gui_reference\bin\Debug\net8.0-windows\Gui_reference.dll
+C:\Users\theza\OneDrive\Desktop\MS539 Code\Gui_reference\bin\Debug\net8.0-windows\Gui_reference.pdb
+C:\Users\theza\OneDrive\Desktop\MS539 Code\Gui_reference\obj\Debug\net8.0-windows\Gui_reference.Form1.resources
+C:\Users\theza\OneDrive\Desktop\MS539 Code\Gui_reference\obj\Debug\net8.0-windows\Gui_reference.csproj.GenerateResource.cache
+C:\Users\theza\OneDrive\Desktop\MS539 Code\Gui_reference\obj\Debug\net8.0-windows\Gui_reference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\theza\OneDrive\Desktop\MS539 Code\Gui_reference\obj\Debug\net8.0-windows\Gui_reference.AssemblyInfoInputs.cache
+C:\Users\theza\OneDrive\Desktop\MS539 Code\Gui_reference\obj\Debug\net8.0-windows\Gui_reference.AssemblyInfo.cs
+C:\Users\theza\OneDrive\Desktop\MS539 Code\Gui_reference\obj\Debug\net8.0-windows\Gui_reference.csproj.CoreCompileInputs.cache
+C:\Users\theza\OneDrive\Desktop\MS539 Code\Gui_reference\obj\Debug\net8.0-windows\Gui_reference.dll
+C:\Users\theza\OneDrive\Desktop\MS539 Code\Gui_reference\obj\Debug\net8.0-windows\refint\Gui_reference.dll
+C:\Users\theza\OneDrive\Desktop\MS539 Code\Gui_reference\obj\Debug\net8.0-windows\Gui_reference.pdb
+C:\Users\theza\OneDrive\Desktop\MS539 Code\Gui_reference\obj\Debug\net8.0-windows\Gui_reference.genruntimeconfig.cache
+C:\Users\theza\OneDrive\Desktop\MS539 Code\Gui_reference\obj\Debug\net8.0-windows\ref\Gui_reference.dll
+C:\Users\theza\OneDrive\Desktop\MS539 Code\Gui_reference\obj\Debug\net8.0-windows\Gui_reference.Form2.resources
