@@ -38,6 +38,7 @@ namespace Gui_reference
             }
             else
             {
+                errorProvider2.SetError(listBox_Weights, "");
                 string newInput = textBox_Input.Text;
                 listBox_Weights.Items.Add(newInput);
                 textBox_Input.Clear();
